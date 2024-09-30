@@ -1,6 +1,7 @@
 
 
-📫 ## Hi there 👋 I am Stephie Lopes. I am A B.E in Information Technology From St. Francis Institute of Technology.
+👋 Hi, I’m Stephie Lopes, a B.Engg in Information technology.proud to have mastered the Data Science techniques in my one year journey of PGP Data Science certification from Purdue University & Data Science for Engineers course from IIT-Madras(NPTEL).
+
 
 <!--
 **stephielopes4/stephielopes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
