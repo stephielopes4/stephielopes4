@@ -6,7 +6,7 @@ When I started my programming journey, I learned some main steps like good under
 
 I try to solve atleast 2 DSA questions on geeksforgeeks or leetcode or certain MCQ's on computer fundamentals which gives me a great boost. 
 
-🔭 I’m currently working on python project with FastAPI
+🔭 I’m currently working on a Python project with FastAPI.
 
 <!--
 **stephielopes4/stephielopes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
