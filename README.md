@@ -1,7 +1,8 @@
 
 
-👋 Hi, I’m Stephie Lopes, an engineering graduate. I have done my engineering in Information Technology from St. Francis Institute of Technology, Mumbai.
-When I started my programming journey, I learned some main steps like good understanding of problem, step-by step algorithm designing(pseudo code), writing clean code and optimizing it etc.
+👋 Hi, I’m Stephie Lopes, an engineering graduate. I have done my engineering in Information Technology from St. Francis Institute of Technology, Mumbai. 
+
+When I started my programming journey, I learned some main steps like good understanding of a problem, step-by step algorithm designing(pseudo code), writing clean code and optimizing it etc.
 
 
 <!--
