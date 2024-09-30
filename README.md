@@ -1,6 +1,7 @@
 
 
-👋 Hi, I’m Stephie Lopes, a B.Engg in Information technology.proud to have mastered the Data Science techniques in my one year journey of PGP Data Science certification from Purdue University & Data Science for Engineers course from IIT-Madras(NPTEL).
+👋 Hi, I’m Stephie Lopes, an engineering graduate. I have done my engineering in Information Technology from St. Francis Institute of Technology, Mumbai.
+When I started my programming journey, I learned some main steps like good understanding of problem, step-by step algorithm designing(pseudo code), writing clean code and optimizing it etc.
 
 
 <!--
