@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+📫 ## Hi there 👋 I am Stephie Lopes. I am A B.E in Information Technology From St. Francis Institute of Technology.
 
 <!--
 **stephielopes4/stephielopes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
