@@ -2,7 +2,7 @@
 
 * 👋 Hi, I’m Stephie Lopes, an engineering graduate. I have done my engineering in Information Technology from St. Francis Institute of Technology, Mumbai.
 
-* I am proud to have completed Advanced Software Engineering Certification from IIT Madras & Great Learning with 98% percentile on leaderboard. This included 10 projects with one capstone project. The techstack used is Python(Object oriented programming, Lists, Dictionaries, Functions, Loops), AWS Cloud (sdk, Cloud services), Mongodb, Mysql, RESTAPI, FastAPI etc. 
+* I am proud to have completed Advanced Software Engineering Certification from IIT Madras & Great Learning with 98% percentile on leaderboard. This included 10 projects with one capstone project. The techstack used is Python(Object oriented programming, Lists, Dictionaries, Functions, Loops), AWS Cloud (cloud storage (s3, dynamodb), infrastructure (EC2), notification service(SNS)), Mongodb, Mysql, RESTAPI, FastAPI etc. 
 
 * When I started my programming journey, I learned some main steps like good understanding of a problem, step-by step algorithm designing(pseudo code), writing clean code and optimizing it etc. I just love maths, solving puzzles, tables, arithmetic operations, logical & aptitude questions which keep my brain active, fresh & sharp.
 
