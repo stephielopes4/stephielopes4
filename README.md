@@ -8,6 +8,8 @@
   
 * I am proud to have completed Advanced Software Engineering Certification from IIT Madras & Great Learning with 98% percentile on leaderboard. This included 10 projects with one capstone project. The techstack used is Python(Object oriented programming, Lists, Dictionaries, Functions, Loops), AWS Cloud (cloud storage (s3, dynamodb), infrastructure (EC2), notification service(SNS)), Mongodb, Mysql, RESTAPI, FastAPI etc.
 
+* 🌱 I got selected by Stanford University for Code In Place program 2025 April to June as a Python Mentor. It was great to get connected with various students across the globe, conduct the zoom mentoring sessions, and solve certain interesting coding problems.
+
 <!--
 **stephielopes4/stephielopes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
